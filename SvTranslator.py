@@ -75,7 +75,7 @@ BORDER_COLOR = "DeepSkyBlue1"
 DEFAULT_FONT_SIZE = 24
 
 grpBoxes = {str: guizero.TitleBox}
-textBoxes: dict[Type[str] | str, Type[TextBox] | TextBox] = {str: guizero.TextBox}
+textBoxes = {str: guizero.TextBox}
 
 DEFAULT_SOURCE_CAPTION = "Enter text to translate"
 
