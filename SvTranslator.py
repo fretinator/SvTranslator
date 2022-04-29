@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 import os
 from enum import IntEnum
-from typing import Type
 
 import guizero
-from guizero import TextBox
 
 from modules import TranslationAPI
 
@@ -40,32 +38,34 @@ destWord = ""
 SAVED_PHRASES_FILE = '.00_saved.txt'
 
 # TOGGLE BUTTON - ICON WILL SWITCH
-ICON_ONLINE = './icons/online.png'
-ICON_OFFLINE = './icons/offline.png'
+ICON_ONLINE = './icons/online2.png'
+ICON_OFFLINE = './icons/offline2.png'
 
 # TOGGLE BUTTON
 # TEXT WILL SWITCH: E->T, T->E
-ICON_SWITCH_E_T = './icons/switch_e_t.png'
-ICON_SWITCH_T_E = './icons/switch_t_e.png'
+ICON_SWITCH_E_T = './icons/switch_e_t2.png'
+ICON_SWITCH_T_E = './icons/switch_t_e2.png'
 
 # MAIN ACTION BUTTON
 #   IN ONLINE MODE switches between
 #      * TRANSLATE
 #      * RESET
 #   IN OFFLINE MODE is NEXT
-ICON_TRANSLATE = './icons/translate.png'
-ICON_RESET = './icons/reset.png'
-ICON_NEXT_WORD = './icons/next_word.png'
+ICON_TRANSLATE = './icons/translate2.png'
+ICON_RESET = './icons/reset2.png'
+ICON_NEXT_WORD = './icons/next_word2.png'
 
 # These 2 icons swap between online/offline
 # SAVE AND NEXT FILE BUTTON
-ICON_SAVE = './icons/save.png'
-ICON_NEXT_FILE = './icons/next_file.png'
+ICON_SAVE = './icons/save2.png'
+ICON_NEXT_FILE = './icons/next_file2.png'
 
 # EXIT BUTTON
-ICON_EXIT = './icons/exit.png'
+ICON_EXIT = './icons/exit2.png'
 
 ICON_WIDTH = 48
+BUTTON_WIDTH = 64
+BUTTON_PAD = 8
 # ICON_BG="white"
 
 SCREEN_WIDTH = 800
@@ -302,6 +302,7 @@ def handle_app_resize() -> None:
 
     topPadding.width = cur_width
 
+
 def get_new_font_size() -> int:
     global DEFAULT_FONT_SIZE, app, SCREEN_WIDTH
 
@@ -349,12 +350,12 @@ controlBox = guizero.Box(app, align='left', border=BORDER_PADDING, grid=[0, 0], 
 # Add control buttons
 
 # First set of Toggle Buttons
-opModeToggle = guizero.PushButton(controlBox, width=ICON_WIDTH, image=ICON_ONLINE,
-                                  grid=[1, 0], command=change_op_mode)
+opModeToggle = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
+                                  image=ICON_ONLINE, grid=[1, 0], command=change_op_mode)
 
 # Second set of Toggle Buttons
-langModeToggle = guizero.PushButton(controlBox, width=ICON_WIDTH, image=ICON_SWITCH_E_T,
-                                    grid=[2, 0], command=change_lang_mode)
+langModeToggle = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
+                                    image=ICON_SWITCH_E_T, grid=[2, 0], command=change_lang_mode)
 
 pad1 = guizero.Text(controlBox, text="  ", grid=[3, 0])
 
@@ -363,18 +364,17 @@ pad1 = guizero.Text(controlBox, text="  ", grid=[3, 0])
 # ********** TRANSLATE
 # ********** RESET
 # ***** In OFFLINE MOD - performs Next Word
-mainActionButton = guizero.PushButton(controlBox, width=ICON_WIDTH, image=ICON_TRANSLATE,
-                                      grid=[4, 0], command=handle_main_action)
+mainActionButton = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
+                                      image=ICON_TRANSLATE, grid=[4, 0], command=handle_main_action)
 
 # Next File Button, Disabled or hidden in ONLINE MODE
-nextFileButton = guizero.PushButton(controlBox, width=ICON_WIDTH, image=ICON_NEXT_FILE,
-                                    grid=[5, 0], enabled=False, command=handle_next_file)
+nextFileButton = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
+                                    image=ICON_NEXT_FILE, grid=[5, 0], enabled=False, command=handle_next_file)
 
 pad2 = guizero.Text(controlBox, text="  ", grid=[6, 0])
 
-quitButton = guizero.PushButton(controlBox, width=ICON_WIDTH, image=ICON_EXIT,
-                                grid=[7, 0],
-                                command=do_quit)
+quitButton = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
+                                image=ICON_EXIT, grid=[7, 0], command=do_quit)
 
 # 2. Now add text areas to display verse
 topPadding = guizero.Drawing(app, height=20, width=app.width, grid=[0, 2])
