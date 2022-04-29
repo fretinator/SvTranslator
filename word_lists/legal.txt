@@ -1,0 +1,47 @@
+batas	law
+kasalanan	offense
+pulis	police
+abogado	lawyer
+hukom	judge
+korte	court
+ipagtanggol	to defend
+mabilanggo/makulong	to be encarcerated
+hatol	judgement
+mapalaya	to be set free
+sentensya	sentence
+akusado	accused (noun)
+akusahan	to accuse
+parusa	penalty
+parusahan	to penalize
+patawarin	to forgive someone
+pinatay	killed
+pumatay	killer
+pinawalang-sala	declared innocent
+mag-apila	to appeal (the sentence)
+multa	fine
+mag-multa	to pay the fine
+piyansa	bail
+mag-piyansa	to pay the bail
+sinungaling	liar
+magsinungaling	to lie
+testigo	witness
+tumestigo	to be a witness
+talo	lose
+natalo	lost
+panalo	win
+nanalo	won
+konstitusyon	constitution (law)
+ordinansa	ordinance
+labag	against
+lumabag sa batas	violated the law
+inosente	innocent
+walang kinalaman	did not know (about the incident)
+totoo	true
+patotoo	to authenticate the truth
+korte suprema	supreme court
+mababang hukuman	lower court
+pagpapasya	decision
+paglilitis	arraignment/trial
+imbestigasyon	investigation
+ebidensya	evidence
+kaso	case

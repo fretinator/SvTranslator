@@ -1,0 +1,25 @@
+mapa	map
+bundok	mountain
+burol	hill
+patag/kapatagan	plain/plains
+ilog	river
+dagat	sea/ocean
+lawa	lake
+isla	island
+pulo-pulo	islands
+kapuluan	archipelago
+talon	falls
+bulkan	volcano
+matarik/malalim	very deep
+kontinente	continent
+tubig	water
+lupa	earth/soil
+gubat	forest
+puno	trees
+bukid	fields
+planeta	planet
+mundo	earth/world
+hilaga	north
+silangan	east
+kanluran	west
+timog	south

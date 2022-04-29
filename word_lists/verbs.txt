@@ -1,0 +1,432 @@
+absent	liban,lumiban,lumiliban,liliban,nilibanan,nililibanan,lilibanan
+abuse	abuso,umabuso,umaabuso,aabuso,inabuso,inaabuso,aabusuhin
+accept	tanggap,tumanggap,tumatanggap,tatanggap,tinanggap,tinatanggap,tatanggapin
+accuse	akusa,nag-akusa,nang-aakusa,mang-aakusa,inakusahan,inaakusahan,aakusahan
+acquire	kuha,kumuha,kumukuha,kukuha,kinuha,kinukuha,kukuhain
+act	arte,umarte,umaarte,aarte,inartehan,inaartehan,aartehan
+add	dagdag,nagdagdag,nagdaragdag,magdaragdag,dinagdagan,dinaragdagan,dadagdagan
+advance(forward)	sulong,sumulong,sumusulong,susulong,sinulong,sinusulong,susulungin
+agitate(someone)	galit,nanggalit,nanggagalit,manggagalit,ginalit,ginagalit,gagalitin
+angry(to be angry)	galit,nagalit,nagagalit,magagalit,ikinagalit,ikinakagalit,ikakagalit
+angry(make someone)	galit,nanggalit,nanggagalit,manggagalit,ginalit,ginagalit,gagalitin
+angry(scold someone)	galit,,,,pinagalitan,pinapagalitan,papagalitan
+annoy	inis,nang-inis,nang-iinis,mang-iinis,ininis,iniinis,iinisin
+answer(respond)	sagot,sumagot,sumasagot,sasagot,sinagot,sinasagot,sasagutin
+approach	lapit,lumapit,lumalapit,lalapit,nilapitan,nilalapitan,lalapitan
+arrive	dating,dumating,dumarating,darating,dinatnan,dinaratnan,daratnan
+ask for(something)	hingí',humingí',humihingí,hihingí',hiningí',hinihingí',hihingí'
+ask about	tanong,nagtanong,nagtatanong,magtatanong,tinanong,tinatanong,tatanungin
+assume	akala,nag-akala,nag-aakala,mag-aakala,inakala,inaakala,aakalain
+attack	lusob,lumusob,lumulusob,lulusob,niluson,nilulusob,lulusubin
+attain	kamit,nakamit,nakakamit,makakamit,nakamtan,nakakamtan,makakamtan
+attend	dalo,dumalo,dumadalo,dadalo,dinaluhan,dinadaluhan,dadaluhan
+attention(give)	pansin,napansin,napapansin,mapapansin,pinansin,pinapansin,papansinin
+attract	akit,naakit,naaakit,maaakit,inakit,inaakit,aakitin
+avoid	layó',lumayó',lumalayó',lalayó',nilayuan,nilalayuan,lalayuan
+bad (become)	samá',sumamá',sumasamá',sasamá',,,
+ban	bawal,nagbawal,nagbabawal,magbabawal,ibinawal,ibinabawal,ibabawal
+bark	tahol,tumahol,tumatahol,tatahol,tinahulan,tinatahulan,tatahulan
+begin	umpisa,nag-umpisa,nag-uumpisa,mag-uumpisa,inumpisahan,inuumpisahan,uumpisahan
+believe	niwala,naniwala,naniniwala,maniniwala,pinaniwalaan,pinaniniwalaan,paniniwalaan
+big (to become)	laki,lumaki,lumalaki,lalaki,,,
+big (to make it)	laki,,,,nilakihan,nilalakihan,lalakihan
+birth (to give birth/ to be born)	anak,nanganak(gave birth),nanganganak(giving birth),manganganak (will give birth),ipinanganak (born),pinapanganak (being born),ipapanganak (will be born)
+bite	kagat,kumagat,kumakagat,kakagat,kinagat,kinakagat,kakagatin
+boil	laga,naglaga,naglalaga,maglalaga,nilaga,nilalaga,ilalaga
+borrow	hiram,humiram,humihiram,hihiram,hiniram,hinihiram,hihiramin
+borrow (money)	utang,umutang,umuutang,uutang,inutang,inuutang,uutangin
+brag (or boast)	yabang,nagyabang,nagyayabang,magyayabang,ipinag-yabang,ipinapag-yabang,ipag-yayabang
+break	sirá',sumirá',sumisirá',sisirá',sinirá',sinisirá',sisirá'in
+break (glassware)	basag,nagbasag,nagbabasag,magbabasag,binasag nabasag,binabasag nababasag,babasagin mababasag
+break - tear (1)	punit,nagpuni,nagpupunit,magpupunit,napunit,napupunit,mapupunitpu
+break - tear (2)	punit,pumunit,pumupunit,pupunit,pinunit,pinupunit,pupunitin
+break - long objects (1)	balí,nagbalí,nagbabalí,magbabalí,nabalí,nababalí,mababalí
+break - long objects (2)	balí,bumalí,bumabalí,babalí,binalí,binabalí,babalí'in
+break (out of order)	sirá',nagsirá',nagsisirá',magsisirá',nasirá',nasisirá',masisirá'
+break (irreparable)	wasak,nagwasak,nagwawasak,magwawasak,nawasak winasak,nawawasak winawasak,mawawasak wawasakin
+breathe	hinga,huminga,humihinga,hihinga,,,
+bring(something)	dala,nagdala,nagdadala,magdadala,dinala,dinadala,dadalhin
+bring	hatid,naghatid,naghahatid,maghahatid,hinatid,hinahatid,ihahatid
+bring along	sáma,nagsáma,nagsasáma,magsasáma,isináma,isinasáma,isasáma
+bring back	balik,nagbalik,nagbabalik,magbabalik,ibinalik,ibinabalik,ibabalik
+bring home	uwí',nag-uwí',nag-uuwí',mag-uuwí',inuwí',inuuwí',uuwían
+bring out	labas,naglabas,naglalabas,maglalabas,nilabas,nilalabas,ilalabas
+bring to life	buhay,bumuhay,bumubuhay,bubuhay,binuhay,binubuhay,bubuhayin
+bring up	akyat,nag-akyat,nag-aakyat,mag-aakyat,inakyat,inaakyat,iaakyat
+brush (teeth)	sipilyo (brush),nagsipilyo (nag-brush),nagsisipilyo (nagba-brush),magsisipilyo (magba-brush),sinipilyo (binrush),sinisipilyo (binabrush),sisipilyuhin (babrushin)
+brush	suklay,nagsuklay,nagsusuklay,magsusuklay,sinuklay,sinusuklay,susuklayin
+build	tayó',nagtayó',nagtatayó',magtatayó',itinayó',itinatayó',itatayó'
+burn	sunog,nagsunog,nagsusunog,magsusunog,sinunog,sinusunog,susunugin
+burp	dighay,dumighay,dumidighay,didighay,,,
+buy	bili,bumili,bumibili,bibili,binili,binibili,bibilhin
+call	tawag,tumawag,tumatawag,tatawag,tinawag,tinatawag,tatawagin
+call up (phone)	tawag,tumawag,tumatawag,tatawag,tinawagan,tinatawagan,tatawagan
+carry	dala,nagdala,nagdadala,magdadala,dinala,dinadala,dadalhin
+carry (on the head)	sunong,nagsunong,nagsusunong,magsusunong,sinunong,sinusunong,susunungin
+carry (on the back)	pasan,nagpasan,nagpapasan,magpapasan,pinasan,pinapasan,papasanin
+carry (with arm)	bitbit,nagbitbit,nagbibitbit,magbibitbit,binitbit,binibitbit,bibitbitin
+carry (underarm)	kipkip,nagkipkip,nagkikipkip,magkikipkip,kinipkip,kinikipkip,kikipkipin
+carry (with hand)	hawak,,,,hinawakan,hinahawakan,hahakawan
+catch (something)	saló,sumaló,sumasaló,sasaló,sinaló,sinasaló,sasalúhin
+catch (someone)	huli,humuli,humuhuli,huhuli,hinuli,hinuhuli,huhulihin
+catch up (someone)	abot,nag-abot,nag-aabot,mag-aabot,inabutan,inaabutan,aabutan
+change	palit,nagpalit,nagpapalit,magpapalit,pinalitan,pinapalitan,papalitan
+change (clothes)	bihis,nagbihis,nagbibihis,magbibihis,binihisan,binibihisan,bibihisan
+cheat	daya',nandaya',nandadaya',mandadaya',dinaya',dinadaya',dadayain
+choose	pili',pumili',pumipili',pipili',pinili',pinipili',pipiliin
+clap	palakpak,pumalakpak,pumapalakpak,papalakpak,pinalakpakan,pinapalakpakan,papalakpakan
+clean	linis,naglinis,naglilinis,maglilinis,nilinis,nililinis,lilinisin
+clean (become)	linis,luminis,lumilinis,lilinis,,,
+climb	akyat,umakyat,umaakyat,aakyat,inakyat,inaakyat,aakyatin
+close	sará,nagsará,nagsasará,magsasará,sinará,sinasará,isasará
+collect	ipon,nag-ipon,nag-iipon,mag-iipon,inipon,iniipon,iipunin
+come	punta,pumunta,pumupunta,pupunta,pinuntahan,pinupuntahan,pupuntahan
+come back	balik,bumalik,bunabalik,babalik,binalikan,binabalikan,babalikan
+come from	galing,nanggaling,nanggagaling,manggagaling,,,
+confuse	líto,nalíto,nalilíto,malilíto,nilíto,nililíto,lilituhin
+continue	patuloy,nagpatuloy,nagpapatuloy,magpapatuloy,,,
+converse	usap,nag-usap,nag-uusap,mag-uusap,pinag-usapan,pinapag-usapan,papag-usapan
+cook	lutó',naglutó',naglulutó',maglulutó',nilutó',nilulutó',lulutúin
+copy	kopya,kumopya,kumokopya,kokopya,kinopya,kinokopya,kokopyahin
+count	bilang,bumilang,bumibilang,bibilang,binilang,binibilang,bibilangin
+court (romance)	ligaw,lumigaw,lumiligaw,liligaw,niligawan,nililigawan,liligawan
+cover	takip,nagtakip,nagtatakip,magtatakip,tinakpan,tinatakpan,tatakpan
+cover up	takip,nagtakip,nagtatakip,magtatakip,pinagtapan,pinapagtakpan,papagtakpan
+create	gawá',gumawá',gumagawá',gagawá',ginawá',ginagawá',gagawin
+cross	tawid,tumawid,tumatawid,tatawid,tinawid,tinatawid,tatawirin
+cry	iyak,umiyak,umiiyak,iiyak,iniyakan,iniiyakan,iiyakan
+cure	gamot,gumamot,gumagamot,gagamot,ginamot,ginagamot,gagamutin
+cut (break)	pútol,pumútol,pumupútol,pupútol,pinútol,pinupútol,puputúlin
+cut (slice)	hiwa',naghiwa',naghihiwa',maghihiwa',hiniwa',hinihiwa',hihiwain'
+cut (chop)	tatad,nagtadtad,nagtatadtad,magtatadtad,tinadtad,tinatadtad,tatadtarin
+cut (vegetables)	gayat,naggayat,naggagayat,maggagayat,ginayat,ginagayat,gagayatin
+cut (with scissors)	gupit,naggupit,naggugupit,maggugupit,ginupit,ginugupit,gugupitin
+cut (with ax)	sibak,nagsibak,nagsisibak,magsisibak,sinibak,sinisibak,sisibakin
+cut (tear off)	púnit,pumúnit,pumupúnit,pupúnit,pinúnit,pinupúnit,pupúnitin
+cut (behead)	pugot,nagpugot,nagpupugot,magpupugot,pinugot,pinupugot,pupugutan
+cut (remove)	tanggal,nagtanggal,nagtatanggal,magtatanggal,tinanggal,tinatanggal,tatanggalin
+damage	sirá',sumirá',sumisirá',sisirá',sinirá',sinisirá',sisirá'in
+dance	sayaw,sumayaw,sumasayaw,sasayaw,sinayaw,sinasayaw,sasayawin
+deceive	linlang,nanglinlang,nanlilinlang,manlilinlang,nilinlang,nililinlang,lilinlangin
+deliver	dalá,nagdalá,nagdadalá,magdadalá,dinalá,dinadalá,dadálhin
+depart	alís,umalís,umaalís,aalís,,,
+destroy	sirá',nanirá',naninirá',maninirá',sinirá',sinisirá',sisirá'in
+destroy (character)	sirá',nanirá',naninirá',maninirá',sinirá'an,sinisirá'an,sisirá'an
+develop	unlad,umunlad,umuunlad,uunlad,inunlad,inuunlad,uunlarin
+die	patay,namatay,namamatay,mamamatay,pinatay,pinapatay,papatayin
+divide	hatí',naghatí',naghahatí',maghahatí',hinatí',hinahatí',hahatí'in
+dizzy	hílo,nahílo,nahihílo,mahihílo,,,
+do	gáwa',gumáwa',gumagáwa',gagáwa',ginawa',ginagawa',gagawin
+draw (picture)	guhit,nagguhit,nagguguhit,magguguhit,ginuhit,ginuguhit,guguhitin
+dress (put on)	bihis,nagbihis,nagbibihis,magbibihis,binihisan,binibihisan,bibihisan
+dress (remove)	hubad,naghubad,nahuhubad,maghuhubad,hinubad,hinuhubad,huhubarin
+drink	inom,uminom,umiinom,iinom,ininom,iniinom,iinumin
+drive	maneho,nagmaneho,nagmamaneho,magmamaneho,minaneho,minamaneho,mamanehuin
+drop	hulog,naghulog,naghuhulog,maghuhulog,hinulog,hinuhulog,ihuhulog
+drop down	bagsak,nagbagsak,nagbabagsak,magbabagsak,binagsak,binabagsak,ibabagsak
+drop off	bába',nagbába',nagbabába',magbabába',ibinába',ibinabába',ibabába'
+drop off (someone)	hatíd,naghatíd,naghahatíd,maghahatíd,hinatíd,hinahatíd,ihahatíd
+eat	kain,kumain,kumakain,kakain,kinain,kinakain,kakainin
+elevate	táas,nagtáas,nagtatáas,magtatáas,tináas,tinatáas,tatáasin
+elope	tanan,nagtanan,nagtatanan,magtatanan,tinanan,tinatanan,itatanan
+embrace	yakap,yumakap,yumayakap,yayakap,niyakap,niyayakap,yayakapin
+enjoy	sayá,nagsayá (nag-enjoy),nagsasayá (nage-enjoy),magsasayá (mage-enjoy),pinagsayáhan (in-enjoy),pinagsasayáhan (ine-enjoy),pagsasayáhan (e-enjoy-in)
+enter (a place)	pasok,pumasok,pumapasok,papasok,pinasok,pinapasok,papasukin
+enter into	suót,sumuót,sumusuót,susuót,sinuótan,sinusuótan,susuótan
+entertain	libang,naglibang,naglilibang,manlilibang,nilibang,nililibang,lilibangin
+erase	burá,nagburá,nagbuburá,magbuburá,binurá,binuburá,buburáhin
+examine (analyze)	surí',nagsurí',nagsusurí',magsusurí',sinurí',sinusurí',susurí'in
+examine (medical)	tingín,nagpatingín,nagpapatingín,magpapatingín,tiníngnan,tinitíngnan,titíngnan
+examine (test)	sulit,nagsulit (nag-exam),nagsusulit (nage-exam),magsusulit (mage-exam),sinulit (inexam),sinusulit (ineexam),susulitin (ieexam)
+expect	ása,umása,umaása,aása,inásahan,inaásahan,aásahan
+exit	lábas,lumábas,lumalábas,lalábas,nilábasan,nilalábasan,lalábasan
+face (someone/something)	hárap,humárap,humahárap,hahárap,hinárap,hinahárap,hahárapin
+fall	hulog,nahulog,nahuhulog,mahuhulog,hinulog,hinuhulog,ihuhulog
+farm	saká,nagsaká,nagsasaká,magsasaká,sinaká,sinasaká,sasakáhin
+fart	útot,umútot,umuútot,uútot,inútot,inuútot,uútutin
+feed	kain,nagpakain,nagpapakain,magpapakain,pinakain,pinapakain,papakainin
+feel (bad)	damdám,nagdamdám,nagdaramdám,magdaramdám,dinamdám,dinaramdám,daramdámin
+feel (something)	dama,dumama,dumarama,dadama,dinama,dinadama,dadamhin
+feel (better)	gáling,gumáling,gumagáling,gagáling,,,
+fever (to have)	lagnat,,,,nilagnat,nilalagnat,lalagnatin
+fight	laban,lumaban,lumalaban,lalaban,nilabanan,nilalabanan,lalabanan
+fill up (container)	punó',nagpunó',nagpupunó',magpupunó',pinunó',pinupunó',púpunuin
+find	hanap,humanap naghanap,humahanap naghahanap,hahanap maghahanap,hinanap,hinahanap,hahanapin
+finish (something)	tapos,,,,tinapos,tinatapos,tatapusin
+fish	isdá',nangisdá',nangingisdá',mangisdá',,,
+fly	lípad,lumípad,lumilípad,lilípad,nilípad,nililípad,lilíparin
+follow after	súnod,sumúnod,sumusúnod,susúnod,sinúndan,sinusúndan,susúndan
+forget (someone)	limot,lumimot,lumilimot,lilimot,nilimot,nililimot,lilimutin
+forget (something)	limot,nakalimot,nakakalimot,makakalimot,nakalimutan,nakakalimutan,malilituman
+frighten (someone)	tákot,nanákot,nananákot,mananákot,tinákot,tinatákot,tatakutin
+full (with food)	búsog,nabúsog,nabubúsog,mabubúsog,,,
+full (become)	púno',napúno',napupúno',mapupúno',,,
+gamble	sugal,nagsugal,nagsusugal,magsusugal,sinugal,sinusugal,isusugal
+get	kuhá',kumuhá',kumukuhá',kukuhá',kinuhá',kinukuhá',kukunin
+gift (to give)	regalo,nagregalo,nagreregalo,magreregalo,niregaluhan,nireregalugan,reregaluhan
+give	bigay,nagbigay,nagbibigay,magbibigay,binigay,binibigay,ibibigay
+give up (surrender)	sukó',sumukó',sumusukó',susukó',isinukó',isinusukó',isusukó'
+go (to a place)	puntá,pumuntá nagpuntá,pumupuntá,pupuntáhan,pinuntáhan,pinupuntáhan,pupuntáhan
+go away	layas,lumayas,lumalayas,lalayas,,,
+go down	babá',bumabá',bumababá',bababá',binabá',binababá',ibababá'
+go on	tuloy,tumuloy,tumutuloy,tutuloy,tinuluyan,tinutuluyan,tutuluyan
+go out	labas,lumabas,lumalabas,lalabas,nilabas,nilalabas,lalabasin
+go up	akyat,umakyat,umaakyat,aakyat,inakyat,inaakyat,aakyatin
+goodbye (to say)	paalam,nagpaalam,nagpapaalam,magpapaalam,,,
+graduate (from school)	tápos,nagtápos,nagtatápos,magtatápos,,,
+grant (money/chance)	bigay,nabigay,nagbibigay,magbibigay,binigyan,binibigyan,bibigyan
+greet (someone)	bati,bumati,bumabati,babati,binati,binabati,babati'in
+grow (become big)	laki,lumaki,lumalaki,lálaki,inilaki,inilalaki,ilalaki
+guard (look after)	bantay,nagbantay,nagbabantay,magbabantay,binantayan,binabantayan,babantayan
+haircut (to have)	gupit,nagpagupit,nagpapagupit,magpapagupit,ginupitan,ginugupitan,gugupitan
+hand (to use it)	kamay,nagkamay,nagkakamay,magkakamay,kinamay,kinakamay,kakamayin
+hand over (something)	bigay,,,,ibinigay,ibinibigay,ibibigay
+hand to (something to someone)	ábot,nag-ábot,nag-aábot,mag-aábot,inábot,inaábot,iaábot
+handshake (to give)	kamay,nagkamayan,nagkakamayan,magkakamayan,kinamayan,kinakamayan,kakamayan
+hang (clothes)	sampay,nagsampay,nagsasampay,magsasampay,sinampay,sinasampay,isasampay
+happy (become)	sayá,sumayá,sumasayá,sasayá,ikinasayá,ikinasasayá,ikakasayá
+happy (to enjoy)	sayá,nagsayá,nagsasayá,magsasayá,pinagsayá,pinagsasayá,ipapagsayá
+hate (1)	suklam,nasuklam,nasusuklam,masusuklam,isinuklam,isinusuklam,isusuklam
+hate (2)	muhí',namuhí',namumuhí',mamumuhí',kinamuhí'an,kinakamuhí'an,kamumuhí'an
+heal	gáling,gumáling,gumagáling,gagáling,igináling,iginagáling,igagáling
+hear (something)	dínig,nadinig narinig,nadidinig naririnig,madidinig maririnig,dininig dinirig,dinidinig dinirinig,didinggin diringinggin
+hear (someone)	kinig,nakinig,nakikinig,makikinig,pinakinggan,pinapakinggan,papakinggan
+heat up (something)	init,nag-init,nag-iinit,mag-iinit,ininit,iniinit,iinitin
+hello (to say)	kumusta,nangumusta,nangungumusta,mangungumusta,kinumusta,kinukumusta,kukumustahin
+help	tulong,tumulong,tumutulong,tutulong,tinulungan,tinutulungan,tutulungan
+hide (something)	tago',nagtago',nagtatago',magtatago',tinago',tinatago',itatago'
+hide (one's self or someone)	tago',nagtago',nagtatago',magtatago',tinaguan,tinataguan,tataguan
+hike	lakad,naglakad,naglalakad,maglalakad,nilakad,nilalakad,lalakarin
+hit (fist)	suntok,nanuntok,nanununtok,manununtok,sinuntok,sinusuntok,susuntukin
+hit (instrument)	pukpok,namukpok,namumukpok,mamumukpok,pinukpok,pinupukpok,pupukpukin
+hit on/at (someone)	tira,tumira,tumitira,titira,tinira,tinitira,titirahin
+hold	hawak,humawak,humahawak,hahawak,hinawakan,hinahawakan,hahawakan
+hug	yakap,yumakap,yumayakap,yayakap,niyakap,niyayakap,yayakapin
+hurry (to be)	dali',nagmadali',nagmamadali',magmamadali',minadali',minamadali',mamadaliin
+hurt (transitive)	sákit,nasáktan,nasasáktan,masasáktan,sináktan,sinasáktan,sasáktan
+hurt (intransitive)	sákit,sumákit,sumasákit,sasákit,,,
+improve	buti,bumuti,bumubuti,bubuti,binuti,binubuti,ibubuti
+insert	suot,nagsuot,nagsusuot,magsusuot,sinuot,sinusuot,susuutin
+install (1)	lagay,naglagay,naglalagay,maglalagay,nilagay,nilalagay,ilalagay
+install (2)	kabit,nagkabit,nagkakabit,magkakabit,kinabit,kinakabit,ikakabit
+introduce (someone)	kilala,nagpakilala,nagpapakilala,magpapakilala,pinakilala,pinapakilala,ipapakilala
+introduce (something)	kita,nagpakita,nagpapakita,magpapakita,pinakita,pinapakita,ipapakita
+invent	imbento,nag-imbento,nag-iimbento,mag-imbento,inimbento,iniimbento,iimbentuhin
+invite	imbita,nag-imbita,nag-iimbita,mag-iimbita,inimbita,iniimbita,iimbitahin
+involve	sali,sumali,sumasali,sasali,sinali,sinasali,isasali
+join (game)	sali,sumali,sumasali,sasali,sinalihan,sinasalihan,sasalihan
+join (someone)	sama,sumama,sumasama,sasama,sinamahan,sinasamahan,sasamahan
+joke	loko,nangloko nanloko,nangloloko nanloloko,mangloloko manloloko,niloko,niloloko,lolokohin
+jump	talon,tumalon,tumatalon,tatalon,tinalon,tinatalon,tatalunin
+keep (save)	tago',nagtago',nagtatago',magtatago',itinago',itinatago',itatago'
+keep (put aside)	tabí,nagtabí,nagtatabi,magtatabí,itinabí,itinatabí,itatabí
+kill	pátay,pumátay,pumapátay,papátay,pinátay,pinapátay,papátayin
+kill (slaughter)	katay,nagkatay,nagkakatay,magkakatay,kinatay,kinakatay,kakatayin
+kiss	hálik,humálik,humahálik,hahálik,hinálikan,hinahálikan,hahálikan
+knock (door)	kátok,kumátok,kumakátok,kakátok,kinátok,kinakátok,kakátukin
+knock down	gibá',naggibá',naggigibá',maggigibá',ginibá',ginigibá',gigibá'in
+know (someone)	kilala,nakipag-kilala,nakikipag-kilala,makikipag-kilala,kinilala,kinikilala,kikilalanin
+know (something)	alam,,,,inalam,inaalam,aalamin
+laugh	tawa,tumawa,tumatawa,tatawa,tinawanan,tinatawanan,tatawanan
+laundry	labá,naglabá,naglalabá,maglalabá,nilabhan,nilalabhan,lalabhan
+lay (put)	lágay,naglágay,naglalágay,maglalágay,nilágay,nilalágay,ilalágay
+lie (tell a lie)	sinungaling,nag-sinungaling,nag-sisinungaling,mag-sisinungaling,sinu-ngalingan,sinisinu-ngalingan,sisinu-ngalingan
+lie down	higa',humiga',humihiga',hihiga',hinigaan,hinihigaan,hihigaan
+light up	ilaw,umilaw,umiilaw,iilaw,inilawan,iniilawan,iilawan
+listen	kinig,nakinig,nakikinig,makikinig,pinakinggan,pinapakinggan,papakinggan
+loan	utang,umutang,umuutang,uutang,inutangan,inuutangan,uutangan
+look	tingin,tumingin,tumitingin,titingin,tiningnan,tinitingnan,titingnan
+lose	walá',nawalá',nawawalá',mawawalá',winalá',winawalá',iwawalá'
+love (someone romantically)	ibig,umibig,umiibig,iibig,inibig,iniibig,iibigin
+love (someone)	mahal,nagmahal,nagmamahal,magmamahal,minahal,minamahal,mamahalin
+love (something)	gusto,,,,nagustuhan,nagugustuhan,magugustuhan
+make	gáwa',gumáwa' naggáwa,gumagáwa' naggagáwa,gagáwa' maggagáwa',gináwa',ginagáwa',gagáwain gagáwin
+market (go to)	palengke,na-malengke,nama-malengke,mama-malengke,pina-malengke,pina-pamalengke,papa-malengkehin
+marry	kasal,nagpakasal,nagpapakasal,magpapakasal,kinasal,kinakasal,ikakasal
+measure (weight)	timbang,nagtimbang,nagtitimbang,magtitimbang,tinimbang,tinitimbang,titimbangin
+measure (dimension)	sukat,nagsukat,nagsusukat,magsusukat,sinukat,sinusukat,susukatin
+meet (someone)	kíta,nagkíta,nagkikíta,magkikíta,nakipagkíta,nakikipagkíta,makikipagkíta
+move (transfer)	lipat,lumipat,lumilipat,lilipat,nilipatan,nililipatan,lilipatan
+move (something)	lipat,naglipat,naglilipat,maglilipat,nilipat,nililipat,ililipat
+move over (someone)	usog,umusog,umuusog,uusog,,,
+move over (something)	usog,nag-usog,nag-uusog,mag-uusog,inusog,inuusog,iuusog
+nap	siesta,nagsiesta,nagsisiesta,magsisiesta,,,
+need	kailangan,nanga-ilangan,nanganga-ilangan,manganga-ilangan,kinailangan,kinakailangan,kakailanganin
+no (to say no)	hindí',humindí',humihindí',hihindí',hinindí'an,hinihindí'an,hihindí'an
+nod	tángo',tumángo',tumatángo',tatángo',tinangú'an,tinatangú'an,tatangú'an
+noise	ingay,nag-ingay,nag-iingay,mag-iingay,iningayan,iniingayan,iingayan
+obey	súnod,sumúnod,sumúsunod,susúnod,sinúnod,sinusúnod,susúnurin
+observe	másid,nagmásid,nagmamásid,magmamásid,minásdan,minamásdan,mamásdan
+occupy	okupá,nag-okupá,nag-ookupá,mag-ookupá,inokupá,inookupá,ookupáhin
+occur	yari',nangyari',nangyayari',mangyayari',,,
+open (something)	búkas,nagbúkas,nagbubúkas,magbubúkas,binuksan,binubuksan,bubuksan
+open (by itself)	búkas,bumúkas,bumubúkas,bubúkas,,,
+order (someone*)	utos,nag-utos,nag-uutos,mag-uutos,inutusan,inuutusan,uutusan
+order (something**)	order,nag-order,nag-oorder,mag-oorder,inorder,inoorder,oorderin
+paint (art)	pinta,nagpinta,nagpipinta,magpipinta,ipininta,ipinipinta,pipintahin
+paint (on an object)	pinta,nagpinta,nagpipinta,magpipinta,pinintahan,pinipintahan,pipintahan
+park (in the garage)	garahe,naggarahe,naggagarahe,maggagarahe,iginarahe,iginagarahe,igagarahe
+park (parking lot)	parada,pumarada,pumaparada,paparada,ipinarada,ipinaparada,ipaparada
+pass (exam)	pasa,pumása,pumápasa,pápasa,pinása,pinápasa,ipápasa
+pass by	daan,dumaan,dumadaan dumaraan,dadaan daraan,dinaanan,dinadaanan,dadaanan
+pass on	pasa,nagpasa,nagpapasa,magpapasa,ipinasa,ipinapasa,ipapasa
+pass on (to someone)	ábot,nag-ábot,nag-aábot,mag-aábot,inabot,inaábot,iaábot
+pawn	sanlá',nagsanlá',nagsasanlá',magsasanlá',sinanlá',sinasanlá',isasanlá'
+pay	bayad,nagbayad,nagbabayad,magbabayad,binayaran,binabayaran,babayaran
+peek	silip,sumilip,sumisilip,sisilip,sinilip,sinisilip,sisilipin
+pick (choose)	pili',pumili',pumipili',pipili',pinili',pinipili',pipiliin
+pick up (something)	dampot,dumampot,dumadampot dumarampot,dadampot darampot,dinampot,dinadampot dinarampot,dadamputin daramputin
+pick up (someone)	sundó',nagsundó',nagsusundó',magsusundó',sinundó',sinusundó',susundúin
+place	lagay,naglagay,naglalagay,maglalagay,nilagay,nilalagay,ilalagay
+plant	tanim,nagtanim,nagtatanim,magtatanim,tinanim,tinatanim,itatanim
+play (game)	laró',naglagró',naglalaró',maglalaró',nilaró',nilalaró',lalarúin
+play (instrument)	tugtog,tumugtog,tumutugtog,tutugtog,tinugtog,tinutugtog,tutugtugin
+promise	pangako',nangako',nangangako',mangangako',ipinangako',ipinapangako',ipapangako'
+point	turo',nagturo',nagtuturo',magtuturo',tinuro',tinuturo',ituturo'
+pour	buhos,nagbuhos,nagbubuhos,magbubuhos,binuhos,binubuhos,ibubuhos
+pout	simangot,sumimangot,sumisimangot,sisimangot,sinimangutan,sinisimangutan,sisimangutan
+pray	dasal,nagdasal,nagdadasal nagdarasal,magdadasal magdarasal,dinasal,dinadasal dinarasal,idadasal idarasal
+prepare (food)	handá',naghandá',naghahandá',maghahandá',hinandá',hinahandá',ihahandá'
+prepare (get ready)	handá',humandá',humahandá',hahandá',,,
+press (iron)	plantsa,nagplantsa,nagpaplantsa,magplaplantsa,pinaltsa,pinaplantsa,paplantsahin
+pretty (become)	ganda,gumanda,gumaganda,gaganda,ginanda,ginaganda,igaganda
+pretty (make one's self)	ganda,nagpaganda,nagpapaganda,magpapaganda,pinaganda,pinapaganda,pagagandahin
+prevent (oneself)	pigil,nagpigil,nagpipigil,magpipigil,pinigilan,pinipigilan,pipigilan
+prevent (something)	pigil,,,,pinigil,pinipigil,pipigilin
+promote (someone/job)	promote,na-promote,napo-promote,mapo-promote,pinromote,pinopromote,ipopromote
+promote (something)	taguyod,nagtaguyod,nagtataguyod,magtataguyod,tinaguyod,tinataguyod,itataguyod
+pull	hila,naghila,naghihila,maghihila,hinila,hinihila,hihilahin
+push	tulak,nagtulak,nagtutulak,magtutulak,tinulak,tinutulak,itutulak
+put	lagay,naglagay,naglalagay,maglalagay,nilagay,nilalagay,ilalagay
+put in (through a hole)	pasok,nagpasok,nagpapasok,magpapasok,ipinasok,ipinapasok,ipapasok
+put in (the mouth)	subo',nagsubo',nagsusubo',magsusubo',sinubo',sinusubo',isusubo'
+put on (turn on)	bukas,nagbukas,nagbubukas,magbubukas,binuksan,binubuksan,bubuksan
+put on (clothes)	suot,nagsuot,nagsusuot,magsusuot,sinuot,sinusuot,susuutin
+put off	alis,nag-alis,nag-aalis,mag-aalis,inalis,inaalis,aalisin
+put down	bába',nagbába',nagbabába',magbabába',ibinába',ibinabába',ibabába'
+question	tanong,nagtanong,nagtatanong,magtatanong,tinanong,tinatanong,tatanungin
+quick (to make it)	bilis,bumilis,bumibilis,bibilis,bilisan,binibilisan,bibilisan
+quiet	tahimik,tumahimik,tumatahimik,tatahimik,tinahimik,tinatahimik,itatahimik
+quit	ayaw,umayaw,umaayaw,aayaw,inayawan,inaayawan,aayawan
+raise (animals)	arúga',nag-arúga',nag-aarúga',mag-aarúga',inarugaan,inaarugaan,aaraguan
+raise (baby sit)	alaga,nag-alaga,nag-aalaga,mag-aalaga,inalagaan,inaalagaaan,aalagaan
+raise (children)	laki,nagpalaki,nagpapalaki,magpapalaki,pinalaki,pinapalaki,papalakihin
+raise (hand)	taas,nagtaas,nagtataas,magtataas,itinaas,itinataas,itataas
+reach (something)	abot,umabot,umaabot,aabot,inabot,inaabot,aabutin
+reach (destination)	dating rating,dumating narating,dumarating nararating,darating mararating,,,
+read (something)	basa,nagbása bumasa,nagbabása bumabasa,magbabása babasa,binasa,binabasa,babasahin
+read (to someone)	basa,,,,binasahan,binabasahan,babasahan
+receive	tanggap,tumanggap,tumatanggap,tatanggap,tinanggap,tinatanggap,tatanggapin
+refuse	ayaw,umayaw,umaayaw,aayaw,inayawan,inaayawan,aayawan
+reject	tanggi,tumanggi,tamatanggi,tatanggi,tinanggihan,tinatanggihan,tatanggihan
+remember	alala,naalala,naaalala,maaalala,inalala,inaalala,aalalahanin
+remove (clothes)	hubad,naghubad,naghuhubad,maghuhubad,hinubad,hinuhubad,huhubarin
+remove (something)	alis,nag-alis,nag-aalis,mag-aalis,inalis,inaalis,aalisin
+remove (someone)	alis,nagpaalis,nagpapaalis,magpapaalis,pinaalis,pinapaalis,papaalisin
+rent (house)	upa,umupa,umuupa,uupa,inupahan,inuupahan,uupahan
+rent (car)	arkila,umarkila,umaarkila,aarkila,inarkila,inaarkila,aarkilahin
+rent (general)	renta,nagrenta,nagrerenta,magrerenta,nirenta,nirerenta,rerentahin
+repeat (behavior)	ulit,umulit,umuulit,uulit,inulit,inuulit,uulitin
+repeat (work)	ulit,nag-ulit,nag-uulit,mag-uulit,inulit,inuulit,uulitin
+report (something)	ulat,nag-ulat,nag-uulat,mag-uulat,inulat,inuulat,iuulat
+report (news)	balita,nagbalita,nagbabalita,magbabalita,binalita,binabalita,ibabalita
+report (complain)	sumbong,nagsumbong,nagsusumbong,magsusumbong,isinumbong,isinusumbong,isusumbong
+return	sauli',nagsauli',nagsasauli',magsasauli',isinauli',isinasauli',isasauli'
+revise (change)	palit,nagpalit,nagpapalit,magpapalit,pinalitan,pinapalitan,papalitan
+revise (rework)	ulit,nag-ulit,nag-uulit,mag-uulit,inulit,inuulit,uulitin
+ride	sakay,sumakay,sumasakay,sasakay,sinakyan,sinasakyan,sasakyan
+rise (stand up)	táyo',tumáyo',tumatáyo',tatáyo',,,
+rise up (from lying)	bangon,bumangon,bumabangon,babangon,binangon,binabangon,ibabangon
+rob	nakaw,nagnakaw,nagnanakaw,magnanakaw,ninakaw,ninanakaw,nanakawin
+roll	gulong,gumulong,gumugulong,gugulong,ginulong,ginugulong,igugulong
+rub (wash)	kusot,nagkusot,nagkukusot,magkukusot,kinusot,kinukusot,kukusutin
+rub (skin)	hagod,naghagod,naghahagod,maghahagod,hinagod,hinahagod,hahagurin
+rub (massage)	masahe,nagmasahe,nagmamasahe,magmamasahe,minasahe,minamasahe,mamasahiin
+run	takbo,tumakbo,tumatakbo,tatakbo,tinakbo,tinatakbo,tatakbuhin
+sad	lungkot,nalungkot,nalulungkot,malulungkot,ikinalungkot,ikinalulungkot,ikalulungkot
+say	sabi,nagsabi,nagsasabi,magsasabi,sinabi,sinasabi,sasabihin
+scare	takot,natakot,natatakot,matatakot,tinakot,tinatakot,tatakutin
+see	kita,nakakita,nakakakita,makakakita,nakita,nakikita,makikita
+sell (1)	benta,nagbenta,nagbebenta,magbebenta,ibinenta,ibinebenta,ibebenta
+sell (2)	tinda,nagtinda,nagtitinda,magtitinda,itininda,itinitinda,ititinda
+sew	tahi',nagtahi',nagtatahi',magtatahi',tinahi',tinatahi',tatahiin
+shout	sigaw,sumigaw,sumisigaw,sisigaw,sinigaw,sinisigaw,isisigaw
+shout (at each other)	sigaw,nagsigawan,nagsisigawan,magsisigawan,sinigawan,sinisigawan,sisigawan
+sign (signature)	pirma,pumirma,pumipirma,pipirma,pinirmahan,pinipirmahan,pipirmahan
+sign (to give a sign)	senyas,sumenyas,sumesenyas,sesenyas,sinenyasan,sinesenyasan,sesenyasan
+sing (1)	awit,umawit,umaawit,aawit,inawit,inaawit,aawitin
+sing(2)	kanta,kumanta,kumakanta,kakanta,kinanta,kinakanta,kakantahin
+sink	lubog,lumubog,lumulubog,lulubog,nilubog,nilulubog,ilulubog
+sit	upo',umupo',umuupo',uupo',inupuan,inuupuan,uupuan
+sleep	tulog,natulog,natutulog,matutulog,tinulugan,tinutulugan,tutulugan
+slice	hiwa',naghiwa',naghihiwa',maghihiwa',hiniwa',hinihiwa',hihiwain
+smile	ngiti,ngumiti,ngumingiti,ngingiti,nginitian,nginingitian,ngingitian
+sort	ayos,nag-ayos,nag-aayos,mag-aayos,inayos,inaayos,aayusin
+stand	táyo',tumáyo',tumatáyo',tatáyo',tinayuan,tinatayuan,tatayuan
+stop	hinto',huminto',humihinto',hihinto',hinintuan,hinihintuan,hihintuan
+study	aral,nag-aral,nag-aaral,mag-aaral,pinag-aralan,pinag-aaralan,pag-aaralan
+sue	habla,naghabla,naghahabla,maghahabla,hinabla,hinahabla,ihahabla
+suffer (1)	dusa,nagdusa,nagdudusa nagdurusa,magdusa magdurusa,ipinagdusa,ipinagdudusa ipinagdurusa,pagdudusahan pagdurusahan
+suffer (2)	hirap,naghirap,naghihirap,maghihirap,hinirap,hinihirap,ihihirap
+swallow	lunok,lumunok,lumulunok,lulunok,nilunok,nilulunok,lulunukin
+sweep (clean)	walis,nagwalis,nagwawalis,magwawalis,winalis,winawalis,wawalisin
+take	kuha',kumuha',kumukuha',kukuha',kinuha',kinukuha',kukuhanin
+take care (of one's self)	ingat,nag-ingat,nag-iingat,mag-iingat,iningatan,iniingatan,iingatan
+take care (of someone)	alaga',nag-alaga',nag-aalaga',mag-aalaga',inalagaan,inaalagaan,aalagaan
+take care (something)	ingat,nag-ingat,nag-iingat,mag-iingat,iningatan,iniingatan,iingatan
+talk	salita',nagsalita',nagsasalita',magsasalita',sinalita',sinasalita',sasalitain
+teach	turo',nagturo',nagtuturo',magtuturo',tinuro',tinuturo',ituturo'
+tease	biro',nagbiro',nagbibiro',magbibiro',biniro',binibiro',bibiruin
+tell	sabi,nagsabi,nagsasabi,magsasabi,sinabi,sinasabi,sasabihin
+test (examine)	suri',nagsuri',nagsusuri',magsusuri',sinuri',sinusuri',susuriin
+test (try out)	subok,sumubok,sumusubok,susubok,sinubok,sinusubok,susubukin
+tighten	higpit,naghigpit,naghihigpit,maghihigpit,hinigpitan,hinihigpitan,hihigpitan
+think	isip,nag-isip,nag-iisip,mag-iisip,inisip,iniisip,iisip
+throw	tapon,nagtapon,nagtatapon,magtatapon,tinapon,tinatapon,itatapon
+travel (voyage)	lakbay,naglakbay,naglalakbay,maglalakbay,nilakbay,nilalakbay,lalakbayin
+travel (vacation)	bakasyon,nagbakasyon,nagbabakasyon,magbabakasyon,binakasyunan,binabakasyunan,babakasyunan
+travel (visit)	pasyal,namasyal,namamasyal,mamamasyal,pinasyalan,pinapasyalan,papasyalan
+travel (by plane)	lipad,lumipad,lumilipad,lilipad,nilipad,nililipad,liliparin
+turn on	bukas,nagbukas,nagbubukas,magbubukas,binuksan,binubuksan,bubuksan
+turn off	sara,nagsara,nagsasara,magsasara,sinara,sinasara,isasara
+kill	patay,nagpatay,nagpapatay,magpapatay,pinatay,pinapatay,papatayin
+type (typewriter)	makinilya (type),nagmakinilya (nag-type),nagmamakinilya (nagta-type),magmamakinilya (magta-type),minakinilya (tinype),minamakinilya (tinatype),mamakinilyahin (itatype)
+understand (something)	intindi,umintindi,umiintindi,iintindi,inintindi,iniintindi,iintindihin
+understand (someone)	intindi,,,,naintindihan,naiintindihan,maiintindihan
+use	gamit,gumamit,gumagamit,gagamit,ginamit,ginagamit,gagamitin
+vanish	wala',nawala',nawawala',mawawala',winala',winawala',wawalain
+violate (an order)	suway,sumuway,sumusuway,susuway,sinuway,sinusuway,susuwayin
+violate (a law)	labag,lumabag,lumalabag,lalabag,nilabag,nilalabag,lalabagin
+visit (1)	dalaw,dumalaw,dumadalaw,dadalaw,dinalaw,dinadalaw,dadalawin
+visit (2)	bisita,bumisita,bumibista,bibisita,binisita,binibisita,bibisitahin
+vote	boto,bumoto,bumoboto,boboto,ibinoto,ibinoboto,iboboto
+wait	hintay,naghintay,naghihintay,maghihintay,hinintay,hinihintay,hihintayin
+walk (1)	lakad,naglakad,naglalakad,maglalakad,nilakad,nilalakad,lalakarin
+walk (2)	lakad,lumakad,lumalakad,lalakad,,,
+want	gusto,,,,ginusto,ginugusto,gugustuhin
+warn	babala',nagbabala',nagbababala',magbababala',binalaan,binabalaan,babalaan
+wash	hugas,naghugas,naghuhugas,maghuhugas,hinugasan,hinuhugasan,huhugasan
+watch (movie/TV)	nood,nanood,nanonood,manonood,pinanood,pinapanood,papanoorin
+watch (someone)	nood,,,,pinanood,pinapanood,papanoorin
+watch over	bantay,nagbantay,nagbabantay,magbabantay,binantayan,binabantayan,babantayan
+water (plants)	dilig,nagdidilig,nagdidilig,magdidilig,diniligan,dinidiligan,didiligan
+wed	kasal,nagpakasal,nagpapakasal,magpapakasal,pinakasalan,pinapakasalan,papakasalan
+whisper	bulong,bumulong,bumubulong,bubulong,ibinulong,ibinubulong,ibubulong
+whistle (1)	sipol,sumipol,sumisipol,sisipol,sinipulan,sinisipulan,sisipulan
+whistle (2)	huni,humuni,humuhuni,huhuni,hinunihan,hinuhunihan,huhunihan
+win (1)	wagi',nagwagi',nagwawagi',magwawagi',ipinagwagi',ipinapagwagi',ipapagwagi'
+win (2)	panalo,nanalo,nananalo,mananalo,napanalunan,napapanalunan,papanalunan
+wipe	punas,nagpunas,nagpupunas,magpupunas,pinunasan,pinupunasan,pupunasan
+withdraw (money)	kuha (withdraw),kumuha (nag-withdraw),kumukuha (nagwi-withdraw),kukuha (magwi-withdraw),kinuha (winithdraw),kinukuha (winiwithdraw),kukuha (wiwithdrawhin)
+withdraw (from activity)	alis,umalis,umaalis,aalis,,,
+wonder (be puzzled)	taka,nagtaka,nagtataka,magtataka,ipinagtaka,ipinagtataka,ipagtataka
+wonder (be amazed)	mangha',namangha',namamangha',mamamangha',namanghaan,namamanghaan,mamamanghaan
+work	trabaho,nagtrabaho,nagtatrabaho,magtatrabaho,tinrabaho,tinatrabaho,tatrabahuin
+worry	alala,nag-alala,nag-aalala,mag-aalala,inalala,inaalala,aalahanin
+worship (1)	samba,nagsamba,nagsasamba,magsasamba,sinamba,sinasamba,sasambahin
+worship (2)	,sumimba,sumisimba,sisimba,,,
+wrap	balot,nagbalot,nagbabalot,magbabalot,binalot,binabalot,babalutin
+write (something)	sulat,nagsulat,nagsusulat,magsusulat,sinulat,sinusulat,isusulat
+write (someone)	sulat,sumulat,sumusulat,susulat,sinulatan,sinusulatan,susulatan
+yawn	hikab,naghikab,naghihikab,maghihikab,hinikaban,hinihikaban,hihikaban
+yes (to say yes to)	oo,umoo,umooo,ooo,inoohan,inooohan,ooohan

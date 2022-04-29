@@ -1,0 +1,56 @@
+kapangyarihan	power
+makapangyarihan	powerful
+bansa	country
+gobyerno	government
+pangulo	president
+pangalawang pangulo	vice-president
+pinunong ministro	prime minister
+gabinete	cabinet
+mambabatas	legislator
+hukuman	judiciary
+pamahalaan	government
+konstitusyon/saligang-batas	constitution
+batas	law
+senador	senator
+kinatawan	representative
+meyor	mayor
+gobernador	governor
+bandila	flag
+pambansa	national
+panlokal	local
+pederal	federal
+estado	state
+usapin	issue
+pamamahala	governance/governing
+pamamalakad	policy
+perang-bayan	public funds
+proyekto	project
+katiwalian	corruption
+gamit-opisyal	official use
+pananalapi	treasury/finance
+salaping gugol	budget
+gugol	allocation
+pagmamalabis	abuse
+abusadong opisyal	abusive official
+patalsikin	to be dismissed from office/work
+kaban ng bayan	national treasury
+pambansang halalan	national elections
+halalan	election
+kandidato	candidate
+partido	party
+partido politikal	political party
+pinuno ng partido	head of the party
+lokal na halalan	local elections
+gastos	expenditure
+rebelde	rebel
+oposisyon	opposition
+nanunungkulan	in power/in office
+protesta	protest
+rebolusyon	revolution
+rebelyon	rebellion
+alsa	revolt
+diskusyon	discussion
+debate (de-bah-te)	debate
+pakikipagtalastasan	debate/argument
+sandatahang-lakas	armed forces
+pulisya/pulis	police

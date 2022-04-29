@@ -1,0 +1,86 @@
+sakit	illness
+masakit	painful
+may sakit	is ill, a person who is ill
+lagnat	fever
+may lagnat	has a fever
+sakit ng ulo	headache
+sakit ng tiyan	stomachache
+masakit ang ulo	has headache
+masakit ang tiyan	has stomachache
+mahapdi	seething pain, like a fresh wound
+giniginaw	feeling cold, chilly
+nahihilo	feeling dizzy, nauseated
+walang gana	no appetite
+matamlay	lethargic
+maga	swollen
+namamaga	swelling
+nana'	puss
+malabo	blurry
+malabo ang mata	blurry eyesight
+presyon	blood pressure
+alta presyon	high blood
+sakit sa puso	heart disease
+hinga	breath
+huminga	to breathe
+hindi makahinga	cannot breathe
+pagod	tired
+hapo'	tired
+sugat	wound
+baril	gun
+nabaril	shot
+hiwa	cut
+nahiwa	cut by a knife or sharp object
+ngalay	numb
+ubo	cough
+umuubo	coughing
+sipon	colds
+sinisipon	having colds
+plema	phlegm
+uhog	running phlegm
+inuuhog	runny nose
+bingi	deaf
+bulag	blind
+pipi	mute
+pilay	disabled (leg/feet)
+bugbog	bruised
+patay	dead
+pinatay	killed
+gamot	medicine
+ginagamot	under medication/doctor's supervision
+opera	surgery
+inopera/naoperahan	underwent surgery
+ospital	hospital
+nars	nurse
+doktor	doctor
+dentista	dentist
+nasagasaan	hit by a vehicle
+walang malay	unconscious
+nawalang malay	went unconscious
+gutom	hungry
+uhaw	thirsty
+mapait	bitter
+matamis	sweet
+walang lasa	no taste
+walang panlasa	no sense of taste/bland
+lalamunan	throat
+masakit ang lalamunan	sore throat
+buntis	pregnant
+regla	menstruation
+ngipin/mga ngipin	tooth/teeth
+bibig	mouth
+tenga	ear
+labi	lips
+mukha	face
+ilong	nose
+pisngi	cheek
+kilay	eyebrow
+kamay	hand
+paa	foot
+braso	arms
+daliri	finger
+tagihawat	acne, pimples
+sirang ngipin	broken/decayed tooth
+bunot	pull
+magpabunot ng ngipin	to extract tooth
+pasta	tooth filling
+magpapasta	to have tooth filling
