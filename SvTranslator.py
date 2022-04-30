@@ -21,11 +21,11 @@ resetActive = False
 my_op_mode: OpMode = OpMode.OP_ONLINE
 my_lang_mode: LangMode = LangMode.SRC_FIRST
 
-SOURCE_TEXT = "Source"
-TRANSLATION_TEXT = "Translation"
-FILES_DIR = "./word_lists"
-DEFAULT_SRC_LANG = "en"
-DEFAULT_DEST_LANG = "fil"
+SOURCE_TEXT: str = "Source"
+TRANSLATION_TEXT: str = "Translation"
+FILES_DIR: str = "./word_lists"
+DEFAULT_SRC_LANG: str = "en"
+DEFAULT_DEST_LANG: str = "fil"
 
 # List of Files with word lists
 fileList = []
@@ -35,7 +35,7 @@ curFileNum = 0
 srcWord = ""
 destWord = ""
 
-SAVED_PHRASES_FILE = '.00_saved.txt'
+SAVED_PHRASES_FILE: str = '.00_saved.txt'
 
 # TOGGLE BUTTON - ICON WILL SWITCH
 ICON_ONLINE = './icons/online2.png'
@@ -135,7 +135,8 @@ def handle_op_mode_change():
         wordList, resetActive
 
     if OpMode.OP_OFFLINE == my_op_mode:
-        nextFileButton.enable()
+        fileButton.image = ICON_NEXT_FILE
+        mainActionButton.image = ICON_NEXT_WORD
         opModeToggle.image = ICON_OFFLINE
         curFileNum = 0
         wordList = load_file(fileList[curFileNum])
@@ -143,7 +144,7 @@ def handle_op_mode_change():
         grpBoxes[SOURCE_TEXT].text = fileList[curFileNum]
         display_word()
     else:
-        nextFileButton.disable()
+        fileButton.image = ICON_SAVE
         opModeToggle.image = ICON_ONLINE
         grpBoxes[SOURCE_TEXT].text = DEFAULT_SOURCE_CAPTION
         reset_screen()
@@ -199,6 +200,34 @@ def clean_text_for_submission(src_txt):
     return ret
 
 
+def do_save():
+    global textBoxes, SOURCE_TEXT, TRANSLATION_TEXT, my_lang_mode
+    global app, resetActive, mainActionButton
+
+    src_text = str(textBoxes[SOURCE_TEXT].value)
+    dest_text = str(textBoxes[TRANSLATION_TEXT].value)
+
+    src_text = src_text.strip()
+    dest_text = dest_text.strip()
+
+    if len(src_text) > 0 and len(dest_text) > 0:
+        f_saved = open(FILES_DIR + '/' + SAVED_PHRASES_FILE, 'a', encoding='utf-8')
+
+        if LangMode.SRC_FIRST == my_lang_mode:
+            f_saved.write(src_text + "\t" + dest_text + "\n")
+        else:
+            f_saved.write(dest_text + "\t" + src_text + "\n")
+
+        f_saved.flush()
+        f_saved.close()
+        app.info("Success", "Translation saved!")
+        resetActive = False
+        mainActionButton.image = ICON_TRANSLATE
+        reset_screen()
+    else:
+        app.error("Error saving", "Source and Translation must not be blank")
+
+
 def get_translation():
     global my_lang_mode, textBoxes, mainActionButton
     global ICON_RESET, TRANSLATION_TEXT, SOURCE_TEXT
@@ -215,8 +244,17 @@ def get_translation():
     textBoxes[TRANSLATION_TEXT].value = TranslationAPI.get_translation(src_text, src_lang, dest_lang)
 
 
+def handle_file_button():
+    global my_op_mode
+
+    if OpMode.OP_OFFLINE == my_op_mode:
+        handle_next_file()
+    else:
+        do_save()
+
+
 def handle_next_file():
-    global curFileNum, fileList, wordList, curWord
+    global curFileNum, fileList, wordList, curWord, grpBoxes
 
     print("In handle next file")
 
@@ -225,26 +263,22 @@ def handle_next_file():
     else:
         curFileNum = 0
 
+    cur_file_name = fileList[curFileNum]
     wordList = load_file(fileList[curFileNum])
+    grpBoxes[SOURCE_TEXT].text = cur_file_name
+
     curWord = 0
     display_word()
 
 
 def go_next():
-    global curWord, wordList, fileList, curFileNum
+    global curWord, wordList, fileList, curFileNum, grpBoxes
 
     if curWord < (len(wordList) - 1):
         curWord += 1
         display_word()
     else:
-        if curFileNum < len(fileList) - 1:
-            curFileNum += 1
-        else:
-            curFileNum = 0
-
-        wordList = load_file(fileList[curFileNum])
-        curWord = 0
-        display_word()
+        handle_next_file()
 
 
 def load_file_list():
@@ -368,8 +402,8 @@ mainActionButton = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTO
                                       image=ICON_TRANSLATE, grid=[4, 0], command=handle_main_action)
 
 # Next File Button, Disabled or hidden in ONLINE MODE
-nextFileButton = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
-                                    image=ICON_NEXT_FILE, grid=[5, 0], enabled=False, command=handle_next_file)
+fileButton = guizero.PushButton(controlBox, width=BUTTON_WIDTH, padx=BUTTON_PAD, pady=BUTTON_PAD,
+                                image=ICON_SAVE, grid=[5, 0], command=handle_file_button)
 
 pad2 = guizero.Text(controlBox, text="  ", grid=[6, 0])
 
